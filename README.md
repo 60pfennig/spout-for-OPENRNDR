@@ -18,4 +18,4 @@ to
 implementation(openrndr("gl3"))
 implementation(openrndrNatives("gl3"))
 ```
-5) You can now create your Spout sender or receiver with the correspondig classes SpoutSender and SpoutReceiver. A small example is prepared in the Main.kt
+5) You can now create your Spout sender or receiver with the corresponding classes SpoutSender and SpoutReceiver. A small example is prepared in the Main.kt
