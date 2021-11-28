@@ -2,7 +2,7 @@
 Port of the Processing library of Spout for OPENRNDR
 
 
-# Instrcutions
+# Instructions
 1) install Spout and get the Spout SDK. (https://spout.zeal.co/)
 2) Add the files from this repository to your project or take this as starting point
 3) In IntelliJ set run vm options:
